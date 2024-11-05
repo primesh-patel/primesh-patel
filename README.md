@@ -1,7 +1,6 @@
 # 💫 About Me:
-👋 Hi! I'm Primesh Patel – a Data Scientist passionate about turning complex data into actionable insights. Originally from a civil engineering background, I’ve transitioned into the world of data science, specializing in data analysis, machine learning, and visualization. My work spans projects like real estate prediction models and dynamic dashboards, always with a focus on practical applications and clear insights.<br><br>Let’s connect if you’re interested in data-driven collaboration or discussing the latest trends in tech and data science!
-
-
+## Hi there! I'm Primesh Patel 👋
+I’m a Data Scientist dedicated to transforming complex data into actionable insights. With a strong focus on practical applications, I specialize in data analysis, machine learning, and data visualization. My experience includes developing projects such as real estate prediction models and dynamic, data-driven dashboards.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/primespatel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/primeshpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@primeshpatel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@GuardianSailor) 
 
